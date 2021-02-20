@@ -1,0 +1,13 @@
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\bin\Debug\netcoreapp3.1\Classificazione_coniche.exe
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\bin\Debug\netcoreapp3.1\Classificazione_coniche.deps.json
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\bin\Debug\netcoreapp3.1\Classificazione_coniche.runtimeconfig.json
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\bin\Debug\netcoreapp3.1\Classificazione_coniche.runtimeconfig.dev.json
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\bin\Debug\netcoreapp3.1\Classificazione_coniche.dll
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\bin\Debug\netcoreapp3.1\Classificazione_coniche.pdb
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\obj\Debug\netcoreapp3.1\Classificazione_coniche.csprojAssemblyReference.cache
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\obj\Debug\netcoreapp3.1\Classificazione_coniche.AssemblyInfoInputs.cache
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\obj\Debug\netcoreapp3.1\Classificazione_coniche.AssemblyInfo.cs
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\obj\Debug\netcoreapp3.1\Classificazione_coniche.csproj.CoreCompileInputs.cache
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\obj\Debug\netcoreapp3.1\Classificazione_coniche.dll
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\obj\Debug\netcoreapp3.1\Classificazione_coniche.pdb
+C:\Users\acave\Desktop\POLITECNICO\Programmazione\C# projects\Classificazione coniche\Classificazione_coniche\obj\Debug\netcoreapp3.1\Classificazione_coniche.genruntimeconfig.cache
